@@ -7,4 +7,8 @@
 4. Tokeni Kopyala: Bot oluşturulduktan sonra, "Token" kısmından botun tokenini kopyala. Bu token, botunu başlatmak için gereklidir. Tokeni kimseyle paylaşma!
 5. Tokeni .env dosyasına yapıştırın.
 
+## Gerekli Modulleri Yükle!
+`npm install` komutunu cmd üzerinden veya terminal üzerinden kullanarak gerekli modülleri kurun.
+
 ### Her değişiklikten sonra botu durdurup yeniden başlatmalısın!
+
